@@ -13,12 +13,12 @@
     }
 
     .mobile-menu li {
-        padding: 6px 15px;
+        padding: 5px;
     }
 
     .mobile-menu li a {
         font-family: 'Roboto Condensed', sans-serif;
-        font-size: 14px;
+        font-size: 12px;
         font-weight: 500;
         color: #303030 !important;
         text-transform: uppercase;
